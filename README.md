@@ -1,1 +1,21 @@
 # TUGAS3
+https://github.com/Anmararifin/TUGAS3/blob/master/Arraylistfloat.java
+https://github.com/Anmararifin/TUGAS3/blob/master/Arraylistinteger.java
+https://github.com/Anmararifin/TUGAS3/blob/master/Arrayliststring.java
+https://github.com/Anmararifin/TUGAS3/blob/master/arraylistobject.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainqueuedouble.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainqueuefloat.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainqueuegeneric.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainqueuestring.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainstackgneric.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainstackstring.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainstuckdouble.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classmainstuckfloat.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classqueuedouble.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classqueuefloat.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classqueuegenerik.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classqueuestring.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classstackdouble.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classstackstring.java
+https://github.com/Anmararifin/TUGAS3/blob/master/classstuckfloat.java
+https://github.com/Anmararifin/TUGAS3/blob/master/rraylistdouble.java
